@@ -1,2 +1,2 @@
 # edem-gruasalapont
-Este es el repositorio de mí película para este año de máster.
+Este es el repositorio de mi película para este año de máster.
